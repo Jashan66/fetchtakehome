@@ -1,11 +1,11 @@
 # Fetch iOS Take Home Assessment
 
 ### Summary: Include screen shots or a video of your app highlighting its features
-
+![App Image](appImage.png)
 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
-- I prioritized implementing lazy image loading and a lot of error handling to optimize the user experience. I focused on this beacuese its key to handle all cases to ensure the application does not crash.
+- I prioritized implementing lazy image loading and a lot of error handling to optimize the user experience. I focused on this because its key to handle all cases to ensure the application does not crash.
 
 ### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 - I spent about 4-6 hours on the project, focusing most of my time on debugging, implmenting the api, and refining the UI.
